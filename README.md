@@ -4,10 +4,10 @@
 Built an end-to-end machine learning pipeline to predict resale prices of heavy 
 industrial machinery and equipment using operational, transactional, and technical 
 data, as part of the IIT Madras BS Data Science Machine Learning Practice course. 
-Achieved an A grade.
+
 
 ## Dataset & Competition
-- **Source:** [Kaggle — Heavy Equipment Selling Price Prediction Challenge]
+- **Source:** [Kaggle — Heavy Equipment Selling Price Prediction Challenge](https://www.kaggle.com/competitions/heavy-equipment-selling-price-prediction-challenge/data)
 - **Task:** Regression
 - **Evaluation Metric:** RMSLE (Root Mean Squared Log Error)
 
@@ -22,6 +22,5 @@ Achieved an A grade.
    best-performing pipeline for final submission.
 
 ## Results & Achievements
-- **Final Model:** [fill in whichever model you actually used — LightGBM/XGBoost/RF]
 - **Grade:** A
 - **Leaderboard Rank:** 771 out of 2500 , with a final RMSLE score of 0.19438

@@ -23,4 +23,4 @@ data, as part of the IIT Madras BS Data Science Machine Learning Practice course
 
 ## Results & Achievements
 - **Grade:** A
-- **Leaderboard Rank:** 771 out of 2500 , with a final RMSLE score of 0.19438
+- **final RMSLE score** of 0.19438
